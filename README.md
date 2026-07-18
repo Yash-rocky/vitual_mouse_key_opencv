@@ -8,7 +8,7 @@ cd vitual_mouse_key_opencv
 
 
 
-python run vkey.py
+python vkey.py
 
 
 
